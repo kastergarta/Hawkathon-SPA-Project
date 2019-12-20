@@ -1,4 +1,4 @@
-## HAWKATHON `Updated 11.02.2019`
+## HAWKATHON `Updated 12.19.2019`
 
 This is a single page website that have all the functionality to advertise and run hackathon. Hawkathon visitors can register, login, see and update profile, donate. Every new registered user will receive a greeting email. As an admin of this page you can send a notifications to users. Everything ready to host and run a real-life hackathon.    
 
@@ -26,13 +26,13 @@ This is a single page website that have all the functionality to advertise and r
 
 ### ` What you can do on the Hawkathon page?`
 
-1. Register as a new user. 
+1. Register as a new user.
 
 ![Hawkathon Register](Hawkathon_Register.png)
 ![Hawkathon Email](Hawkathon_Email.png)
 
-2. Existing users log-in with a username and password. 
-3. Every user can see and update his/her profile (name, email, location, password, tech skills, soft skills). 
+2. Existing users log-in with a username and password.
+3. Every user can see and update his/her profile (name, email, location, password, tech skills, soft skills).
 
 ![Hawkathon Donate 1](Hawkathon_Profile_1.png)
 ![Hawkathon Donate 1](Hawkathon_Profile_2.png)
@@ -40,9 +40,8 @@ This is a single page website that have all the functionality to advertise and r
 
 4. Every visitor of the page can donate to the Hawkathon.
 
-![Hawkathon Donate 1](Hawkathon_Donate_1.png)
+![Hawkathon Donate 1](./public/Hawkathon_Donate_1.png)
 
 ### `Thanks`
 
-Thank you [Annie Souza](https://github.com/luanesouza), [Randy Herasme](https://github.com/randyher) and [Kevin McAlear](https://github.com/kevinmcalear) for support, professionalism and patience. Thank you for seeing me and every student as a partner in learning and sharing. 
-
+Thank you [Annie Souza](https://github.com/luanesouza), [Randy Herasme](https://github.com/randyher) and [Kevin McAlear](https://github.com/kevinmcalear) for support, professionalism and patience. Thank you for seeing me and every student as a partner in learning and sharing.
