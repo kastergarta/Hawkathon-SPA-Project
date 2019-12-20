@@ -1,6 +1,6 @@
-## HAWKATHON `Updated 12.19.2019`
+## HAWKATHON `Updated 12.19.2019` [VIDEO](https://youtu.be/9RpBgMKWtDw)
 
-This is a single page website that have all the functionality to advertise and run hackathon. Hawkathon visitors can register, login, see and update profile, donate. Every new registered user will receive a greeting email. As an admin of this page you can send a notifications to users. Everything ready to host and run a real-life hackathon.    
+This is a single page application (SPA) that have all the functionality to advertise and run hackathon. Hawkathon visitors can register, login, see and update profile, donate. Every new registered user will receive a greeting email. As an admin of this page, you can send notifications to users. Everything ready to host and run a real-life hackathon.   
 
 ### `Goals of this project`
 
@@ -22,21 +22,21 @@ This is a single page website that have all the functionality to advertise and r
 2. Rails app should run on http://localhost:3003 (for custom port use this -> "bundle exec puma -C config/puma.rb -b tcp://127.0.0.1:3003")
 3. Rails part built on top of PostgreSQL.
 
-![Hawkathon Demo](Oct_24_2019_16_07_05_min.gif)
+![Hawkathon Demo](./public/Oct_24_2019_16_07_05_min.gif)
 
 ### ` What you can do on the Hawkathon page?`
 
 1. Register as a new user.
 
-![Hawkathon Register](Hawkathon_Register.png)
-![Hawkathon Email](Hawkathon_Email.png)
+![Hawkathon Register](./public/Hawkathon_Register.png)
+![Hawkathon Email](./public/Hawkathon_Email.png)
 
 2. Existing users log-in with a username and password.
 3. Every user can see and update his/her profile (name, email, location, password, tech skills, soft skills).
 
-![Hawkathon Donate 1](Hawkathon_Profile_1.png)
-![Hawkathon Donate 1](Hawkathon_Profile_2.png)
-![Hawkathon Donate 1](Hawkathon_Profile_3.png)
+![Hawkathon Donate 1](./public/Hawkathon_Profile_1.png)
+![Hawkathon Donate 1](./public/Hawkathon_Profile_2.png)
+![Hawkathon Donate 1](./public/Hawkathon_Profile_3.png)
 
 4. Every visitor of the page can donate to the Hawkathon.
 
