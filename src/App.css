@@ -1,0 +1,194 @@
+img {
+  max-width: 100%;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 20px;
+  left: 16px;
+  text-align: left;
+}
+
+.tabs-container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
+
+.sponsors {
+  background-image: url('https://media2.giphy.com/media/zXI8NnFw2oyXe/source.gif');
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 150px;
+  color: rgb(143, 143, 143);
+  justify-content: center;
+  align-items: center
+}
+
+.sponsorsImage {
+  height: 130px;
+  width:auto;
+  margin-left: 50px;
+
+}
+
+.judges {
+  background-color: lightgrey;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  height: 200px;
+  color: white;
+  justify-content: center;
+  align-items: center
+}
+
+.judge {
+  height: 180px;
+  width: 33.3%;
+  margin-top: 2em;
+
+}
+
+.judgeImage {
+  border-radius: 50%;
+  height: 100px;
+  width: 33.3%;
+
+}
+
+.judges-card-container {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 330px;
+}
+
+/* --------------------------- */
+
+.parallaxtext {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 250px;
+  margin-bottom: 300px;
+}
+
+#parallax-text-text {
+  color: white;
+  width: 900px;
+  font-size: 30px;
+  text-shadow: 2px 2px black;
+}
+
+#parallax-text-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-grad {
+  background-image: linear-gradient(to right, #FF512F 0%, #DD2476 51%, #FF512F 100%);
+  color: white;
+  border: none;
+  padding: 10px;
+
+}
+
+.btn-grad:hover {
+  background-position: right center;
+}
+
+.footer {
+  background-color: grey;
+  height: 40px;
+  display: flex;
+  color: white;
+  flex-direction: row;
+  align-items: center
+}
+
+.footer-child {
+  width: 50%
+}
+
+.sponsors-headline {
+  font-size: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+
+}
+
+.sponsors-headline-p {
+ text-align: center;
+line-height: 100px;
+
+}
+
+.container-donate {
+  background-image: url(https://media0.giphy.com/media/114O4jlDapmMdW/source.gif);
+  height: 500px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.product-donate {
+  height: 300px;
+  width: 1000px;
+  color: #f50057;
+  font-size: 40px;
+  text-shadow: 2px 2px lightgrey;
+}
+
+.slider-donate {
+  height: 70px;
+  width: 400px;
+}
+
+.jump-judges {
+  text-align: center;
+  height: 50px;
+  color: #f50057;
+}
+
+.jump-faq {
+  text-align: center;
+  height: 100px;
+  color: #f50057;
+}
+
+.techskills {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.single-techskill {
+  padding: 5px;
+  font-size: 25px;
+}
+
+.high-five {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timer {
+  color: white;
+  font-size: 40px;
+}
+
+.jump-sponsors {
+  color: #f50057;
+}
