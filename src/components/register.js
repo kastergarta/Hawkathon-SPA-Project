@@ -89,8 +89,8 @@ export default function Register(props) {
      }
 
      emailjs.send(
-      "theguru.app.team@gmail.com",
-      'template_OztCtOOX',
+      "hawkaton.us@gmail.com",
+      'wellcome_hawkathone',
        templateParams,
       'user_qkmMCvLoKG06KjZD3u8VY'
      )
