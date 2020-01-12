@@ -16,8 +16,6 @@ import Container from '@material-ui/core/Container';
 import * as emailjs from 'emailjs-com';
 
 function Copyright() {
-
-
   return (
     <Typography variant="body2" color="textSecondary" align="center">
       {'Copyright © '}
@@ -91,7 +89,7 @@ export default function Register(props) {
      }
 
      emailjs.send(
-      "hawkaton.us@gmail.com",
+      "theguru.app.team@gmail.com",
       'template_OztCtOOX',
        templateParams,
       'user_qkmMCvLoKG06KjZD3u8VY'
