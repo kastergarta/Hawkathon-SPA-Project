@@ -5,11 +5,14 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const tracer = require('dd-trace').init()
+import { datadogLogs } from '@datadog/browser-logs';
 
-tracer.init({
-  analytics: true
-})
+datadogLogs.init({
+    clientToken: 'pub9aab0674ec0de513e362c78bb6d6c011',
+    datacenter: 'us',
+    forwardErrorsToLogs: true,
+    sampleRate: 100
+});
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
