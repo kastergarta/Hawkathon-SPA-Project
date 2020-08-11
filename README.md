@@ -1,4 +1,4 @@
-## HAWKATHON `Updated 06.02.2029` [VIDEO](https://youtu.be/9RpBgMKWtDw)  [LIVE DEMO - Heroku](https://hawkathonproject.herokuapp.com/)
+## HAWKATHON `Updated 08.10.2020` [VIDEO](https://youtu.be/9RpBgMKWtDw)  [LIVE DEMO - Heroku](https://hawkathonproject.herokuapp.com/)
 
 This is a single page application (SPA) that have all the functionality to advertise and run hackathon. Hawkathon visitors can register, login, see and update profile, donate. Every new registered user will receive a greeting email. As an admin of this page, you can send notifications to users. Everything ready to host and run a real-life hackathon.   
 
